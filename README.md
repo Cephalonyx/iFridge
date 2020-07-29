@@ -16,6 +16,8 @@
 iFridge is an inventory manager for your fridge. 
 This app was created for the CP469 Winter 2020 final project at Wilfrid Laurier University, taught by Dr. Chinh Hoang.
 
+[DEMO HERE!](https://www.youtube.com/watch?v=5cnXd5NJYh4)
+
 <p align="center"><img  align="center"  src="https://i.imgur.com/wnx2UWa.png" width=400px><p/>
 
 
